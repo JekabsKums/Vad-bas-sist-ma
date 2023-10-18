@@ -1,0 +1,1 @@
+Šis ir mans pirmais Git redzēs vai sanāks.
